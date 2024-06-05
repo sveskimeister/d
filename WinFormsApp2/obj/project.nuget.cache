@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ov3MW/qVOZ9ZmyhckQOJ+URSoA6bvGmUCj1vLWmesXL8S0O6bMtqrYsBSplIvhwLliJluyUlwsSsveW14Jne8w==",
+  "dgSpecHash": "upGHAksI7IT5pzuPC6+T9Kf1UCG69GTurs2dQxZSu9xxfyfv0RsOxA/yaviq+11NGfmyATl9tMpbHJSrLbOBPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\konfliktoorium\\d\\WinFormsApp2\\WinFormsApp2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.20\\microsoft.data.sqlite.core.7.0.20.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.20\\microsoft.entityframeworkcore.7.0.20.nupkg.sha512",
